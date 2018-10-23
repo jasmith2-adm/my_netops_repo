@@ -1,0 +1,3 @@
+#MyNewRepo
+Allthecodeformyawesomeappisinthisrepo!
+lso,IGNWisthecoolest:)
